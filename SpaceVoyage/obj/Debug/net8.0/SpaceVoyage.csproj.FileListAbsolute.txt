@@ -1,0 +1,70 @@
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.AssemblyInfoInputs.cache
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.AssemblyInfo.cs
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.csproj.CoreCompileInputs.cache
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.RazorAssemblyInfo.cache
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.RazorAssemblyInfo.cs
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.dll
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\refint\SpaceVoyage.dll
+G:\My Drive\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.pdb
+F:\Phaser\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\appsettings.Development.json
+F:\Phaser\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\appsettings.json
+F:\Phaser\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.staticwebassets.runtime.json
+F:\Phaser\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.exe
+F:\Phaser\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.deps.json
+F:\Phaser\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.runtimeconfig.json
+F:\Phaser\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.dll
+F:\Phaser\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.pdb
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.GeneratedMSBuildEditorConfig.editorconfig
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.AssemblyInfoInputs.cache
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.AssemblyInfo.cs
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.csproj.CoreCompileInputs.cache
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.MvcApplicationPartsAssemblyInfo.cache
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.RazorAssemblyInfo.cache
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.RazorAssemblyInfo.cs
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets.build.json
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets.development.json
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets\msbuild.SpaceVoyage.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets\msbuild.build.SpaceVoyage.props
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SpaceVoyage.props
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SpaceVoyage.props
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\scopedcss\bundle\SpaceVoyage.styles.css
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\scopedcss\projectbundle\SpaceVoyage.bundle.scp.css
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.dll
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\refint\SpaceVoyage.dll
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.pdb
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.genruntimeconfig.cache
+F:\Phaser\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\ref\SpaceVoyage.dll
+E:\Programming\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\appsettings.Development.json
+E:\Programming\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\appsettings.json
+E:\Programming\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.staticwebassets.runtime.json
+E:\Programming\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.exe
+E:\Programming\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.deps.json
+E:\Programming\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.runtimeconfig.json
+E:\Programming\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.dll
+E:\Programming\SpaceVoyage\SpaceVoyage\bin\Debug\net8.0\SpaceVoyage.pdb
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.AssemblyInfoInputs.cache
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.AssemblyInfo.cs
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.csproj.CoreCompileInputs.cache
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.RazorAssemblyInfo.cache
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.RazorAssemblyInfo.cs
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets.build.json
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets.development.json
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets\msbuild.SpaceVoyage.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets\msbuild.build.SpaceVoyage.props
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SpaceVoyage.props
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SpaceVoyage.props
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\scopedcss\bundle\SpaceVoyage.styles.css
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\scopedcss\projectbundle\SpaceVoyage.bundle.scp.css
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.dll
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\refint\SpaceVoyage.dll
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.pdb
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\SpaceVoyage.genruntimeconfig.cache
+E:\Programming\SpaceVoyage\SpaceVoyage\obj\Debug\net8.0\ref\SpaceVoyage.dll

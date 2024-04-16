@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SpaceVoyage.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SpaceVoyage.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\backgrounds\\horizontalvent.png",
+      "PackagePath": "staticwebassets\\assets\\backgrounds\\horizontalvent.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\backgrounds\\indicator.png",
+      "PackagePath": "staticwebassets\\assets\\backgrounds\\indicator.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\backgrounds\\verticalvent.png",
+      "PackagePath": "staticwebassets\\assets\\backgrounds\\verticalvent.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\backgrounds\\wall.png",
+      "PackagePath": "staticwebassets\\assets\\backgrounds\\wall.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\cables\\tallcable.png",
+      "PackagePath": "staticwebassets\\assets\\cables\\tallcable.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\cables\\thickcable.png",
+      "PackagePath": "staticwebassets\\assets\\cables\\thickcable.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\cables\\widecable.png",
+      "PackagePath": "staticwebassets\\assets\\cables\\widecable.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\cryoroom\\computer2.png",
+      "PackagePath": "staticwebassets\\assets\\cryoroom\\computer2.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\cryoroom\\cryotube.png",
+      "PackagePath": "staticwebassets\\assets\\cryoroom\\cryotube.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\dude.png",
+      "PackagePath": "staticwebassets\\assets\\dude.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\engineroom\\reactor_off.png",
+      "PackagePath": "staticwebassets\\assets\\engineroom\\reactor_off.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\engineroom\\reactor_on.png",
+      "PackagePath": "staticwebassets\\assets\\engineroom\\reactor_on.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\fluid.png",
+      "PackagePath": "staticwebassets\\assets\\fluid.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\helm\\computer1.png",
+      "PackagePath": "staticwebassets\\assets\\helm\\computer1.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\light_off.png",
+      "PackagePath": "staticwebassets\\assets\\light_off.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\light_on.png",
+      "PackagePath": "staticwebassets\\assets\\light_on.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\space\\space_layer1.png",
+      "PackagePath": "staticwebassets\\assets\\space\\space_layer1.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\space\\space_layer2.png",
+      "PackagePath": "staticwebassets\\assets\\space\\space_layer2.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\space\\space_layer3.png",
+      "PackagePath": "staticwebassets\\assets\\space\\space_layer3.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\space\\window3.jpg",
+      "PackagePath": "staticwebassets\\assets\\space\\window3.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\spritesheets\\asteroidL.json",
+      "PackagePath": "staticwebassets\\assets\\spritesheets\\asteroidL.json"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\spritesheets\\asteroidL.png",
+      "PackagePath": "staticwebassets\\assets\\spritesheets\\asteroidL.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\spritesheets\\cityscene.json",
+      "PackagePath": "staticwebassets\\assets\\spritesheets\\cityscene.json"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\spritesheets\\cityscene.png",
+      "PackagePath": "staticwebassets\\assets\\spritesheets\\cityscene.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\title\\welcome.png",
+      "PackagePath": "staticwebassets\\assets\\title\\welcome.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\walls\\helm.png",
+      "PackagePath": "staticwebassets\\assets\\walls\\helm.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\walls\\shipfloor.png",
+      "PackagePath": "staticwebassets\\assets\\walls\\shipfloor.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\walls\\shipwall.png",
+      "PackagePath": "staticwebassets\\assets\\walls\\shipwall.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\assets\\warning.png",
+      "PackagePath": "staticwebassets\\assets\\warning.png"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\create.js",
+      "PackagePath": "staticwebassets\\js\\create.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\game.js",
+      "PackagePath": "staticwebassets\\js\\game.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\gameScene.js",
+      "PackagePath": "staticwebassets\\js\\gameScene.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\phaser.js",
+      "PackagePath": "staticwebassets\\js\\phaser.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\player.js",
+      "PackagePath": "staticwebassets\\js\\player.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\preload.js",
+      "PackagePath": "staticwebassets\\js\\preload.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\scenewatcher.js",
+      "PackagePath": "staticwebassets\\js\\scenewatcher.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\titleScene.js",
+      "PackagePath": "staticwebassets\\js\\titleScene.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\js\\update.js",
+      "PackagePath": "staticwebassets\\js\\update.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\SpaceVoyage\\SpaceVoyage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpaceVoyage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SpaceVoyage.props",
+      "PackagePath": "build\\SpaceVoyage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SpaceVoyage.props",
+      "PackagePath": "buildMultiTargeting\\SpaceVoyage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SpaceVoyage.props",
+      "PackagePath": "buildTransitive\\SpaceVoyage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
