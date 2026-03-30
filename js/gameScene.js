@@ -1,6 +1,8 @@
-import gamePreload from '/js/preload.js';
-import gameCreate from '/js/create.js';
-import gameUpdate from '/js/update.js';
+const Phaser = window.Phaser; // Phaser is loaded via <script> in index.html;
+
+import gamePreload from './js/preload.js';
+import gameCreate from './js/create.js';
+import gameUpdate from './js/update.js';
 
 class GameScene extends Phaser.Scene {
 
