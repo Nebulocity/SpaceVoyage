@@ -1,3 +1,5 @@
+const Phaser = window.Phaser; // Phaser is loaded via <script> in index.html;
+
 function gameCreate() {
     var backgroundProps, cables;
     var reactor_on, reactor_off, engineTerminal, cryotube, cryoFluid1, cryoFluid2, cryoFluid3,
