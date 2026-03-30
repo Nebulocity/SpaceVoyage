@@ -17,7 +17,7 @@
 //    }
 //};
 
-const Phaser = window.Phaser; // Phaser is loaded via <script> in index.html;
+const Phaser = window.Phaser; // Phaser is loaded via <script> in index.html
 
 import TitleScene from './js/titleScene.js';
 import GameScene from './js/gameScene.js';
