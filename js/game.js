@@ -19,8 +19,8 @@
 
 const Phaser = window.Phaser; // Phaser is loaded via <script> in index.html
 
-import TitleScene from 'js/titleScene.js';
-import GameScene from 'js/gameScene.js';
+import TitleScene from '/js/titleScene.js';
+import GameScene from '/js/gameScene.js';
 
 var config = {
     type: Phaser.AUTO,
