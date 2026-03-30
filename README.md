@@ -1,6 +1,6 @@
 #Space Voyage
 
-##This was just a game that I made and was messing around with to learn the Phaser framework for creating games.  It was never finished due to needing to prioritize other things in life, but I imagine I'll get back to it later since it has been an idea in my head for a very long time.
+This was just a game that I made and was messing around with to learn the Phaser framework for creating games.  It was never finished due to needing to prioritize other things in life, but I imagine I'll get back to it later since it has been an idea in my head for a very long time.
 
 
 Setup:
