@@ -1,0 +1,25 @@
+{
+  "name": "spacevoyage",
+  "version": "1.0.0",
+  "description": "This was just a game that I made and was messing around with to learn the Phaser framework for creating games.  It was never finished due to needing to prioritize other things in life, but I imagine I'll get back to it later since it has been an idea in my head for a very long time.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nebulocity/SpaceVoyage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nebulocity/SpaceVoyage/issues"
+  },
+  "homepage": "https://github.com/Nebulocity/SpaceVoyage#readme",
+  "dependencies": {
+    "vite": "^8.0.3"
+  }
+}
