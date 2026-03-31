@@ -15,8 +15,8 @@ function gameUpdate() {
     this.cameras.main.scrollX = scrollX;
 
     // Set velocity so player doesn't keep moving
-    player.body.velocity.x = 0;
-    player.body.velocity.y = 0;
+    Phaser.player.body.velocity.x = 0;
+    Phaser.player.body.velocity.y = 0;
 
     //this.asteroid.x = this.asteroid.x - 1;
     asteroids.children.iterate(asteroid => {
